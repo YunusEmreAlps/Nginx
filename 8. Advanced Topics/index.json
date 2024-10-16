@@ -1,0 +1,24 @@
+{
+    "scenario": {
+        "steps": [
+            {
+                "text": "step1.md",
+                "verify": "verify1.json"
+            }
+        ],
+        "intro": {
+            "text": "intro.md"
+        },
+        "finish": {
+            "text": "finish.md"
+        },
+        "video": {}
+    },
+    "environment": {
+        "uilayout": "term-only"
+    },
+    "backend": {
+        "imageid": "alpine"
+    }
+  }
+  
