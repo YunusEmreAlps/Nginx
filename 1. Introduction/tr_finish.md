@@ -10,28 +10,22 @@
 - **Hizmet Yönetimi**: Sistem komutlarını kullanarak Nginx hizmetini başlatma, durdurma, yeniden başlatma ve durumunu kontrol etme becerilerini edindiniz.
 - **Statik İçerik Sunma**: Bir yapılandırma dosyası oluşturarak ve root ve index gibi sunucu parametrelerini tanımlayarak statik bir web sitesi sunma konusunda pratik deneyim kazandınız.
 
-## 💡 Sırada Ne Var?
+## 🌱 Sırada Ne Var?
 
 Artık Nginx'in ileri düzey özelliklerini keşfetmek için temel bilgiye sahipsiniz, bunlar arasında:
 
-- Nginx'i reverse proxy olarak yapılandırma.
-- Yük dengelemeyi devreye alma.
-- Önbelleğe alma ve sıkıştırma ile performansı optimize etme.
-- Güvenli iletişim için SSL/TLS sertifikalarını yönetme.
-- Nginx etkinliklerini izleme ve loglama.
-- Güvenlik duvarı kuralları ile Nginx'in güvenliğini sağlama.
-- URL yeniden yazma ve yeniden yönlendirme.
-- Yük dengeleyiciler ve backend sunucuları ile çalışma.
-- Yüksek kullanılabilirlik ve hata toleransı için Nginx'e ince ayar yapma.
-- Nginx'i diğer teknolojilerle (örneğin Docker, Kubernetes) entegre etme.
-- Ve daha fazlası...
+- Nginx'in mimarisini ayrıntılı olarak keşfedin.
+- Worker süreçlerinin rolünü ve istekleri nasıl işlediklerini anlayın.
+- Asenkron olay güdümlü mimari(event-driven architecture) ve bunun neden verimli olduğu hakkında bilgi edinin.
+- Evrimini takdir etmek için Nginx'in geçmişine ve gelişimine aşina olun.
+- Topluluk katkılarına ve Nginx ekosistemine daha derinlemesine dalın.
 
 Becerilerinizi geliştirmeye devam edin ve öğrendiklerinizi projelerinize uygulamayı unutmayın!
 
 ## 🚀 Devam Edin
 
 - Devam etmeye hazırsanız, **Nginx Yapılandırması** üzerine bir sonraki senaryoya göz atın.
-- Yenilemeye mi ihtiyacınız var? Bu senaryonun herhangi bir bölümüne geri dönmekten çekinmeyin.
+- Bir hatırlatmaya mı ihtiyacınız var? Bu senaryonun herhangi bir bölümünü tekrar ziyaret etmekten çekinmeyin.
 
 ### 👏🏻 Kapanış
 

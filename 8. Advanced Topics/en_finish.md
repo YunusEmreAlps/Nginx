@@ -13,21 +13,15 @@ Congratulations on completing the **Nginx Advanced Topics** scenario! 🚀 You'v
 - Explored Nginx's configuration directives and best practices.
 - and more...
 
-## 💡 What's Next?
+## 🌱 What's Next?
 
 You're now equipped with the foundational knowledge to further explore Nginx's advanced features, including:
 
-- Configuring Nginx as a reverse proxy.
-- Implementing load balancing.
-- Optimizing performance with caching and compression.
-- Managing SSL/TLS certificates for secure communication.
-- Monitoring and logging Nginx activities.
-- Securing Nginx with firewall rules.
-- Implementing URL rewriting and redirection.
-- Working with load balancers and backend servers.
-- Fine-tuning Nginx for high availability and fault tolerance.
-- Integrating Nginx with other technologies (e.g., Docker, Kubernetes).
-- And more...
+- Set up Nginx for HTTP/2 support to improve connection multiplexing.
+- Learn about WebSockets and how to proxy them through Nginx.
+- Configure Nginx as a mail proxy server for SMTP, IMAP, and POP3.
+- Implement advanced rate-limiting algorithms to mitigate brute force attacks.
+- Explore serverless architectures using Nginx for function invocations.
   
 Continue honing your skills, and don't forget to apply what you've learned to your projects!
 

@@ -6,21 +6,15 @@
 
 - ?
 
-## 💡 Sırada Ne Var?
+## 🌱 Sırada Ne Var?
 
 Artık Nginx'in ileri düzey özelliklerini keşfetmek için temel bilgiye sahipsiniz, bunlar arasında:
 
-- Nginx'i reverse proxy olarak yapılandırma.
-- Yük dengelemeyi devreye alma.
-- Önbelleğe alma ve sıkıştırma ile performansı optimize etme.
-- Güvenli iletişim için SSL/TLS sertifikalarını yönetme.
-- Nginx etkinliklerini izleme ve loglama.
-- Güvenlik duvarı kuralları ile Nginx'in güvenliğini sağlama.
-- URL yeniden yazma ve yeniden yönlendirme.
-- Yük dengeleyiciler ve backend sunucuları ile çalışma.
-- Yüksek kullanılabilirlik ve hata toleransı için Nginx'e ince ayar yapma.
-- Nginx'i diğer teknolojilerle (örneğin Docker, Kubernetes) entegre etme.
-- Ve daha fazlası...
+- Farklı web siteleri için birden fazla sunucu bloğu yapılandırın (sanal barındırma).
+- Karmaşık uygulamalar için Nginx yapılandırma dosyalarının nasıl yapılandırılacağını öğrenin.
+- `listen`, `server_name` ve `location` gibi gelişmiş yönergeleri deneyin.
+- Konfigürasyon dosyalarında yönergelerin yürütülme sırasını anlayın.
+- Özel hata sayfaları uygulayın ve hata kodlarını yönetin (örn. 404, 502).
 
 Becerilerinizi geliştirmeye devam edin ve öğrendiklerinizi projelerinize uygulamayı unutmayın!
 

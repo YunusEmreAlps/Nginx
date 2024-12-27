@@ -10,22 +10,16 @@ Congratulations on completing the **Nginx Introduction** scenario! 🚀 You've t
 - **Service Management**: Acquired skills to start, stop, restart, and check the status of the Nginx service using system commands.
 - **Serving Static Content**: Gained practical experience in serving a static website by creating a configuration file and defining server parameters such as root and index.
 
-## 💡 What's Next?
+## 🌱 What's Next?
 
 You're now equipped with the foundational knowledge to further explore Nginx's advanced features, including:
 
-- Configuring Nginx as a reverse proxy.
-- Implementing load balancing.
-- Optimizing performance with caching and compression.
-- Managing SSL/TLS certificates for secure communication.
-- Monitoring and logging Nginx activities.
-- Securing Nginx with firewall rules.
-- Implementing URL rewriting and redirection.
-- Working with load balancers and backend servers.
-- Fine-tuning Nginx for high availability and fault tolerance.
-- Integrating Nginx with other technologies (e.g., Docker, Kubernetes).
-- And more...
-  
+- Explore Nginx's architecture in detail.
+- Understand the role of worker processes and how they handle requests.
+- Learn about asynchronous event-driven architecture and why it's efficient.
+- Get familiar with the history and development of Nginx to appreciate its evolution.
+- Dive deeper into community contributions and Nginx's ecosystem.
+
 Continue honing your skills, and don't forget to apply what you've learned to your projects!
 
 ## 🚀 Keep Going

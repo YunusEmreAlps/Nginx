@@ -8,21 +8,15 @@
 - Nginx'i sisteminize kurup yapılandırdınız.
 - Nginx ile bir statik web sitesi sundunuz.
 
-## 💡 Sırada Ne Var?
+## 🌱 Sırada Ne Var?
 
 Artık Nginx'in ileri düzey özelliklerini keşfetmek için temel bilgiye sahipsiniz, bunlar arasında:
 
-- Nginx'i reverse proxy olarak yapılandırma.
-- Yük dengelemeyi devreye alma.
-- Önbelleğe alma ve sıkıştırma ile performansı optimize etme.
-- Güvenli iletişim için SSL/TLS sertifikalarını yönetme.
-- Nginx etkinliklerini izleme ve loglama.
-- Güvenlik duvarı kuralları ile Nginx'in güvenliğini sağlama.
-- URL yeniden yazma ve yeniden yönlendirme.
-- Yük dengeleyiciler ve backend sunucuları ile çalışma.
-- Yüksek kullanılabilirlik ve hata toleransı için Nginx'e ince ayar yapma.
-- Nginx'i diğer teknolojilerle (örneğin Docker, Kubernetes) entegre etme.
-- Ve daha fazlası...
+- `rewrite` ve `return` yönergelerini kullanarak URL'leri nasıl yeniden yazacağınızı ve yönlendireceğinizi öğrenin.
+- Değişkenlere dayalı koşullu günlük kaydı ve yapılandırmayı kullanın.
+- Nginx'i dinamik içerik için FastCGI ve SCGI gibi gelişmiş özelliklerle yapılandırın.
+- Harici kimlik doğrulama hizmetleri (OAuth, LDAP) ile entegre edin.
+- Coğrafi engelleme ve ülke tabanlı yapılandırmalara dalın.
 
 Becerilerinizi geliştirmeye devam edin ve öğrendiklerinizi projelerinize uygulamayı unutmayın!
 

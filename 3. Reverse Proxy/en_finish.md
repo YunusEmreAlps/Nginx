@@ -13,21 +13,15 @@ Congratulations on completing the **Nginx Reverse Proxy** scenario! 🚀 You've 
 - Explored Nginx's configuration directives and best practices.
 - and more...
 
-## 💡 What's Next?
+## 🌱 What's Next?
 
 You're now equipped with the foundational knowledge to further explore Nginx's advanced features, including:
 
-- Configuring Nginx as a reverse proxy.
-- Implementing load balancing.
-- Optimizing performance with caching and compression.
-- Managing SSL/TLS certificates for secure communication.
-- Monitoring and logging Nginx activities.
-- Securing Nginx with firewall rules.
-- Implementing URL rewriting and redirection.
-- Working with load balancers and backend servers.
-- Fine-tuning Nginx for high availability and fault tolerance.
-- Integrating Nginx with other technologies (e.g., Docker, Kubernetes).
-- And more...
+- Set up Nginx as a reverse proxy to forward client requests to backend servers.
+- Learn about load distribution strategies (`round-robin`, `least-connected`, etc.).
+- Configure reverse proxy for different application servers (Node.js, Python, PHP).
+- Set up health checks for upstream servers.
+- Optimize timeout and buffer settings for reverse proxy performance.
   
 Continue honing your skills, and don't forget to apply what you've learned to your projects!
 

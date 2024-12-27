@@ -4,7 +4,7 @@ Nginx is a high-performance web server and reverse proxy server. It is commonly 
 
 ## History
 
-Nginx was created by Igor Sysoev in 2002. It was initially developed to solve the C10k problem, which refers to the ability of a server to handle 10,000 concurrent connections. Nginx is known for its high performance, stability, and low resource consumption. It is widely used by high-traffic websites and web applications.
+Nginx was created by **Igor Sysoev** in 2002. It was initially developed to solve the C10k problem, which refers to the ability of a server to handle 10,000 concurrent connections. Nginx is known for its high performance, stability, and low resource consumption. It is widely used by high-traffic websites and web applications.
 
 ## Features
 
@@ -50,6 +50,8 @@ Nginx is commonly used in a variety of scenarios, including:
 In this lab, we will cover the basic installation and configuration of Nginx on a Linux server.
 
 ## Installation
+
+Nginx is available in the default repositories of most Linux distributions. You can install Nginx using the following commands:
 
 - **Ubuntu/Debian**:
 
@@ -187,12 +189,11 @@ http {
 </head>
 <body>
   <h1>Welcome to Bulut Bilişimciler!</h1>
-  <p>This is a sample website served by Nginx.</p>
 </body>
 </html>
 ```
 
-After creating the configuration file, restart Nginx to apply the changes.
+The above configuration allows Nginx to serve the **index.html** file in the **/var/www/html** directory. After creating the configuration, restart Nginx to apply the changes and test it by navigating to **<http://localhost>** in your browser.
 
 - **Restart Nginx**:
 

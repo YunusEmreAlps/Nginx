@@ -1,1 +1,7 @@
-{}
+{
+    "command": [
+        "sh",
+        "-c",
+        "curl http://localhost:80.bulutbilisimciler.com | grep 'Welcome to Bulut Bilişimciler!' > /dev/null && 2>&1 || exit 1"
+    ]
+}

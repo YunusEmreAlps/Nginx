@@ -7,7 +7,7 @@
 - Nginx nedir ve neden popülerdir?
 - Nginx'in bir web sunucusu, ters proxy, yük dengeleyici gibi ana kullanım alanları.
 - Nginx'i sisteminize nasıl kurup yapılandıracağınız.
-- Nginx ile statik bir web sitesinin nasıl sunulacağı.
+- Nginx ile statik bir web sitesinin nasıl sunulacağını (serving).
 
 ## 🚀 Başlarken
 

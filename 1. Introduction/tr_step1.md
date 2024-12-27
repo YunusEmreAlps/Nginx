@@ -4,7 +4,7 @@ Nginx yüksek performanslı bir web sunucusu ve reverse proxy sunucusudur. Genel
 
 ## Tarihçe
 
-Nginx 2002 yılında Igor Sysoev tarafından oluşturulmuştur. Başlangıçta, bir sunucunun 10.000 eşzamanlı bağlantıyı idare etme yeteneğini ifade eden C10k sorununu çözmek için geliştirilmiştir. Nginx yüksek performansı, kararlılığı ve düşük kaynak tüketimi ile bilinir. Yüksek trafikli web siteleri ve web uygulamaları tarafından yaygın olarak kullanılmaktadır.
+Nginx 2002 yılında **Igor Sysoev** tarafından oluşturulmuştur. Başlangıçta, bir sunucunun 10.000 eşzamanlı bağlantıyı idare etme yeteneğini ifade eden C10k sorununu çözmek için geliştirilmiştir. Nginx yüksek performansı, kararlılığı ve düşük kaynak tüketimi ile bilinir. Yüksek trafikli web siteleri ve web uygulamaları tarafından yaygın olarak kullanılmaktadır.
 
 ## Özellikler
 
@@ -50,6 +50,8 @@ Nginx, aşağıdakiler de dahil olmak üzere çeşitli senaryolarda yaygın olar
 Bu laboratuvarda, bir Linux sunucusunda Nginx'in temel kurulumunu ve yapılandırmasını ele alacağız.
 
 ## Kurulum
+
+Nginx, çoğu Linux dağıtımında varsayılan depolarda bulunur. Aşağıdaki komutları kullanarak Nginx'i yükleyebilirsiniz:
 
 - **Ubuntu/Debian**:
 
@@ -188,20 +190,19 @@ http {
 </head>
 <body>
   <h1>Welcome to Bulut Bilişimciler!</h1>
-  <p>This is a sample website served by Nginx.</p>
 </body>
 </html>
 ```
 
-Yukarıdaki yapılandırma, Nginx'in **/var/www/html** dizinindeki **index.html** dosyasını sunmasını sağlar. Yapılandırmayı oluşturduktan sonra, değişiklikleri uygulamak için Nginx'i yeniden başlatın.
+Yukarıdaki yapılandırma, Nginx'in **/var/www/html** dizinindeki **index.html** dosyasını sunmasını sağlar. Yapılandırmayı oluşturduktan sonra, değişiklikleri uygulamak için Nginx'i yeniden başlatın ve tarayıcınızda **<http://localhost>** adresine giderek test edin.
 
-- **Restart Nginx**:
+- **Nginx'i Yeniden Başlatma**:
 
 ```bash
   sudo systemctl restart nginx
 ```
 
-- **Access the website**:
+- **Tarayıcıda test etme**:
 
 ```bash
   curl http://localhost:80.bulutbilisimciler.com
