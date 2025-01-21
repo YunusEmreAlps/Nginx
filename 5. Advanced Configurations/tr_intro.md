@@ -1,6 +1,6 @@
-# 🚀 Nginx'e Giriş
+# 🚀 Nginx Gelişmiş Ayarlar
 
-**Nginx'e Giriş** senaryosuna hoş geldiniz! 🎉 Bu derste, dünyanın en güçlü ve yaygın olarak kullanılan web sunucularından biri olan Nginx'in temellerini öğreneceksiniz. İster küçük bir web sitesi kuruyor olun, ister yüksek trafik alan web uygulamalarını yönetiyor olun, Nginx inanılmaz esneklik ve performans sunar.
+**Nginx Gelişmiş Ayarlar** senaryosuna hoş geldiniz! 🎉 Bu derste, dünyanın en güçlü ve yaygın olarak kullanılan web sunucularından biri olan Nginx'in temellerini öğreneceksiniz. İster küçük bir web sitesi kuruyor olun, ister yüksek trafik alan web uygulamalarını yönetiyor olun, Nginx inanılmaz esneklik ve performans sunar.
 
 ## 🌟 Ne Öğreneceksiniz
 

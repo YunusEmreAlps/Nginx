@@ -1,6 +1,6 @@
 # 🚀 Nginx Configuration
 
-Welcome to the **Nginx Configuration** scenario! 🎉 In this lesson, you will learn ...
+Welcome to the **Nginx Configuration** scenario! 🎉 In this lesson, you will learn the fundamentals of Nginx, one of the most powerful and widely used web servers in the world. Whether you're setting up a small website or managing high-traffic web applications, Nginx offers incredible flexibility and performance.
 
 ## 🌟 What You Will Learn
 

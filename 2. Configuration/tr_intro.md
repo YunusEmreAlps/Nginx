@@ -1,6 +1,6 @@
 # 🚀 Nginx Yapılandırması
 
-**Nginx Yapılandırması** senaryosuna hoş geldiniz! 🎉 Bu derste, nginx'in yapılandırılmasını öğreneceksiniz...
+**Nginx Yapılandırması** senaryosuna hoş geldiniz! 🎉 Bu derste, dünyanın en güçlü ve yaygın olarak kullanılan web sunucularından biri olan Nginx'in temellerini öğreneceksiniz. İster küçük bir web sitesi kuruyor olun, ister yüksek trafik alan web uygulamalarını yönetiyor olun, Nginx inanılmaz esneklik ve performans sunar.
 
 ## 🌟 Ne Öğreneceksiniz
 

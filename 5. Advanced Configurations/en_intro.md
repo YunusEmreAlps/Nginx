@@ -1,6 +1,6 @@
-# 🚀 Nginx Introduction
+# 🚀 Nginx Advanced Configurations
 
-Welcome to the **Nginx Introduction** scenario! 🎉 In this lesson, you will learn the fundamentals of Nginx, one of the most powerful and widely used web servers in the world. Whether you're setting up a small website or managing high-traffic web applications, Nginx offers incredible flexibility and performance.
+Welcome to the **Nginx Advanced Configurations** scenario! 🎉 In this lesson, you will learn the fundamentals of Nginx, one of the most powerful and widely used web servers in the world. Whether you're setting up a small website or managing high-traffic web applications, Nginx offers incredible flexibility and performance.
 
 ## 🌟 What You Will Learn
 

@@ -39,7 +39,7 @@ Nginx is commonly used in a variety of scenarios, including:
 - **Monitoring & Logging**: Capturing detailed logs for traffic, errors, and performance metrics.
 - **DevOps Integration**: Automating deployment and server management tasks in cloud and container environments.
 
-## Advanced Capabilitiess
+## Advanced Capabilities
 
 - **HTTP/2**: Optimized communication for faster web performance.
 - **WebSocket Support**: Real-time, bidirectional communication.
